@@ -1,0 +1,69 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.logo{
+    width: 100px;
+    padding:20px;
+}
+.container{
+    background-color: rgb(71, 68, 68);
+    display: flex;
+    justify-content: space-around;
+    /* padding: 30px; */
+    list-style: none;
+    align-items: center;
+}
+
+.button{
+    color: aliceblue;
+    /* padding: 30px; */
+    margin: 20px;
+    font-size: 20px;
+       
+}
+.menu{
+    display: flex; 
+}
+.button:hover{
+    color:aqua;
+    cursor: pointer;
+
+}
+.image{
+    width: 500px;
+    height: 400px;
+}
+.banner{
+    display: flex;
+    background-color:rgba(8, 0, 0, 0.815);
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    
+    
+    
+.ban-1{
+    color: white;
+}
+.texto{
+    font-size: 60px;
+
+}
+.texa{
+    font-size: 20px;
+}
+
+.buta{
+    background-color:rgb(69, 12, 175);
+    color: white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  border: none;
+  padding: 10px;
+}
+
+p{
+    color:aquamarine;
+}
