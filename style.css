@@ -16,7 +16,7 @@
 }
 
 .button{
-    color: aliceblue;
+    color: rgb(153, 153, 219);
     /* padding: 30px; */
     margin: 20px;
     font-size: 20px;
@@ -39,7 +39,7 @@
     background-color:rgba(8, 0, 0, 0.815);
     align-items: center;
     justify-content: space-around;
-    height: 100vh;
+    height: 100vh;}
     
     
     
@@ -64,6 +64,81 @@
   padding: 10px;
 }
 
-p{
-    color:aquamarine;
+.about-conatiner{
+    display: flex;
+    flex-direction:row-reverse;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.brand{
+    font-size: 35px;
+}
+.branda{
+    font-size: 20px;
+}
+.abouta{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    font-weight: bold;
+}
+.imaga{
+    width: 300px;
+}
+.service-container{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content:space-around;
+   
+}
+.title-ser{
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+.lava{
+    margin: 80px;
+    border: 5px solid rgb(119, 121, 119);
+    /* display: flex; */
+    /* flex-direction: column; */
+    text-align: center;
+   /* text-align: center; */
+    height: 300px;
+    width: 200px;
+    padding: 15px;
+    
+}
+    
+.habu{
+    width: 100px; ;
+}
+.footer-container{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+
+}
+.footi{
+text-align: center;}
+
+.heda{
+    padding-bottom: 30px;
+}
+.moda{
+    padding-bottom: 20px;
+}
+.sma{
+    color:white;
+    background-color: black;
+   display: flex;
+   justify-content: center;
+   padding-bottom: 20px;
 }
